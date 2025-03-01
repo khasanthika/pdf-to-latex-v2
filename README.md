@@ -1,2 +1,2 @@
 # pdf-to-latex-app
-A Flask app that converts uploaded PDFs to LaTeX, the second version. 
+A Flask app that converts uploaded PDFs to LaTeX, the second version with modified Flask app to better handle PDFs that include mathematical symbols, formulas, tables, graphs, and varied document layouts. Note that automatic, “perfect” conversion from a complex PDF into a well‐structured LaTeX document is a very challenging problem, and this solution is a starting point that uses additional libraries to try to capture more structure from the PDF.
