@@ -2,4 +2,4 @@ Flask==2.2.2
 PyPDF2==3.0.0         # You can remove this if you no longer use it
 pdfplumber==0.7.6
 Pillow==9.1.0         # For image processing
-
+Werkzeug==2.2.2
